@@ -1,0 +1,3 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from data.
+It involves training algorithms on large datasets to make predictions or decisions without being explicitly programmed.
+Common machine learning tasks include classification, regression, clustering, and reinforcement learning.
